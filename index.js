@@ -1,6 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
-import WebView from 'react-native-community/react-native-webview';
+import { WebView } from 'react-native-webview';
 
 const defaultOptions = {
 	messageStyle: 'none',

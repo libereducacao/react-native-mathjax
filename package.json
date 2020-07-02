@@ -1,10 +1,9 @@
 {
 	"name": "@liberdev/react-native-mathjax",
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"description": "Render Mathjax content in React Native Webview",
 	"main": "index.js",
 	"scripts": {
-		"publish": "npm publish --access public",
 		"test": "npm tun test"
 	},
 	"repository": {
